@@ -8,6 +8,7 @@ Agente conversacional especializado en arquitecturas AWS, construido con [Strand
 1. Instalar dependencias:
    ```bash
    pip install -r requirements.txt
+   pip install strands-agents strands-agents-tools boto3
    ```
 
 2. Configurar credenciales:
